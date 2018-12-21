@@ -1,0 +1,9 @@
+.info{
+  font-weight:bold;font-size:30px;
+}
+
+.zhanmusi{
+  width:375rpx;
+  height:375rpx;
+  border-radius: 50%;
+}

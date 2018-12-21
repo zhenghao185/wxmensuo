@@ -1,0 +1,12 @@
+<view class='.container'>
+<image src="/images/yier.jpeg" class="zhanmusi"></image>
+<text style='font-weight:bold'>欢迎回家！</text>
+<view>
+
+
+<button style='font-weight:bold'   bindtap="startAuth">{{control}}</button> 
+
+</view>
+
+
+</view>
